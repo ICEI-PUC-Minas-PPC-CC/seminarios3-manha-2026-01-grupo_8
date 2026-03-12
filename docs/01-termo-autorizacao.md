@@ -36,7 +36,7 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| Título/Tema da aplicação | |
+| Título/Tema da aplicação | 4. Desenvolvimento de sistema para ensino de operações matemáticas básicas e tutorial de uso das ferramentas digitais para resolução |
 | Público-alvo | |
 | Nº estimado de usuários | |
 | Faixa etária do público | |
