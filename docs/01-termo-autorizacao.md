@@ -15,17 +15,17 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| Nome do Grupo | |
-| Integrantes | |
-| E-mail de contato | |
-| Telefone de contato | |
+| Nome do Grupo | Grupo 8 |
+| Integrantes | Bruno Felipe Tavares Figueiredo, Gabriel Mota Buére Xavier, Pedro dos Santos Peres |
+| E-mail de contato | pedrosantosperes25@gmail.com |
+| Telefone de contato | (35)99219-3806 |
 
 ## 2. Dados da Comunidade / Instituição Parceira
 
 | Campo | Informação |
 | ------- | ----------- |
-| Nome da instituição | |
-| Endereço | |
+| Nome da instituição | Tarso de Coimbra |
+| Endereço | R. Mario Xandó de Oliveira, 2 - São Geraldo, Poços de Caldas - MG, 37701-335 |
 | Nome do responsável | |
 | Cargo/Função | |
 | Telefone ou e-mail da instituição | |
