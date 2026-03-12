@@ -16,9 +16,9 @@
 | Campo | Informação |
 | ------- | ----------- |
 | Nome do Grupo | Grupo 8 |
-| Integrantes | Bruno Felipe Tavares Figueiredo, Gabriel Mota Buére Xavier, Pedro dos Santos Peres |
-| E-mail de contato | pedrosantosperes25@gmail.com  / gabriel.buere@sga.pucminas.br |
-| Telefone de contato | (35)99219-3806 / (31) 9959-7956|
+| Integrantes | Bruno Felipe Tavares Figueiredo / Gabriel Mota Buére Xavier / Pedro dos Santos Peres |
+| E-mail de contato | pedrosantosperes25@gmail.com  /  gabriel.buere@sga.pucminas.br |
+| Telefone de contato | (35) 99219-3806 / (31) 9959-7956|
 
 ## 2. Dados da Comunidade / Instituição Parceira
 
