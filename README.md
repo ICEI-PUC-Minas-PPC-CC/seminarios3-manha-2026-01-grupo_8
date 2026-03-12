@@ -12,7 +12,7 @@
 | ------- | ----------- |
 | **Nome do Grupo** | *Grupo 8* |
 | **Integrantes** | *Bruno Felipe Tavares Figueiredo / Gabriel Móta Buere Xavier / Pedro dos Santos Peres* |
-| **E-mail de contato** | * / gabriel.buere@sga.pucminas.br / pedrosantosperes25@gmail.com* |
+| **E-mail de contato** | * brunofelipetavaresf@gmail.com / gabriel.buere@sga.pucminas.br / pedrosantosperes25@gmail.com* |
 | **Comunidade parceira** | *Tarso de Coimbra* |
 
 ---
