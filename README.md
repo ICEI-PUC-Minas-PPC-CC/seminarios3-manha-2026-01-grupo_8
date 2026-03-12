@@ -10,8 +10,8 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| **Nome do Grupo** | *(preencher)* |
-| **Integrantes** | *(listar todos)* |
+| **Nome do Grupo** | *Grupo 8* |
+| **Integrantes** | *Bruno Felipe Tavares Figueiredo, Gabriel Móta Buere Xavier, Pedro dos Santos Peres* |
 | **E-mail de contato** | *(preencher)* |
 | **Comunidade parceira** | *(preencher)* |
 
