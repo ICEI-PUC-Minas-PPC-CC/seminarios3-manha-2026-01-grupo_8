@@ -2,9 +2,9 @@
 
 > **Status:**  (adicione um "x" para completar cada nível)
 
-- [x] Visualizado
+- [ ] Visualizado
 - [ ] Pendente
-- [ ] Enviado ao professor
+- [x] Enviado ao professor
 - [ ] Aprovado  
 
 > **Versão do termo .docx:** [baixar na atividade do Canvas]
