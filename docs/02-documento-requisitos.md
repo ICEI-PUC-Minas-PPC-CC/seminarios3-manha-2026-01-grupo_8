@@ -65,16 +65,19 @@ Ela foi pensada para ser simples e acessível, permitindo que todos consigam apr
 ## 7. Protótipo / Wireframes
 
 (Inclua esboços das telas principais ou links para protótipos — mesmo rascunhos simples em papel são válidos. Salvem imagens dos wireframes em `evidencias/prints/`.)
+<img width="1536" height="1024" alt="TelaSiteS3" src="https://github.com/user-attachments/assets/9dccb24a-767a-4457-9db2-a414f11fb80b" />
+<img width="1536" height="1024" alt="TelaQuiz" src="https://github.com/user-attachments/assets/220694b5-a39c-4c31-aa3a-47038215671a" />
 
 ## 8. Escopo Mínimo Viável (MVP)
 
 (Quais funcionalidades compõem a versão mínima que pode ser entregue à comunidade?)
 
-- [ ] *(Funcionalidade 1)*
-- [ ] *(Funcionalidade 2)*
-- [ ] *(Funcionalidade 3)*
+- [ ] Botões e ícones grandes
+- [ ] Textos visíveis com cores estratégicas
+- [ ] Interface simples
 
 ## 9. Funcionalidades Desejáveis (se houver tempo)
 
-- *(Funcionalidade extra 1)*
-- *(Funcionalidade extra 2)*
+- Modo para daltônicos
+- Botão para chamar ajuda
+- integração com uma IA feita usando automação que ajuda o usuário que tenha duvidas, de maneira simples mas sem entregar a resposta
