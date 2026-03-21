@@ -1,23 +1,24 @@
 # 02 — Documento de Requisitos do Software
 
-> **Grupo:** *(preencher)*  
-> **Aplicação:** *(preencher)*  
-> **Comunidade:** *(preencher)*
+> **Grupo:** 8 
+> **Aplicação:** Site 
+> **Comunidade:** Tarso de Coimbra
 
 ---
 
 ## 1. Visão Geral
 
-(Descreva em poucas frases o que é a aplicação, para quem ela é destinada e qual problema ela resolve.)
+A aplicação é destinada à comunidade parceira, atendendo principalmente crianças, idosos e pessoas com deficiência.
+Ela foi pensada para ser simples e acessível, permitindo que todos consigam aprender matemática básica com facilidade.
 
 ## 2. Público-Alvo
 
 | Campo | Informação |
 | ------- | ----------- |
-| Perfil dos usuários | |
-| Faixa etária | |
-| Necessidades de acessibilidade | |
-| Nível de familiaridade com tecnologia | |
+| Perfil dos usuários | Pessoas com necessidades especiais |
+| Faixa etária | Crianças,, adolescentes, adultos e idosos|
+| Necessidades de acessibilidade | Alta |
+| Nível de familiaridade com tecnologia | Médio |
 
 > **Lembrete (Tarso de Coimbra):** Os usuários podem ter deficiência auditiva/surdez. A interface deve ser **visual, intuitiva e de baixa complexidade**. Priorize elementos visuais (imagens, ícones, cores) sobre texto extenso.
 
@@ -49,13 +50,13 @@
 - [ ] Contraste adequado de cores
 - [ ] Compatível com Libras (se aplicável: vídeos, sinais, glossário)
 - [ ] Sem dependência de áudio para funcionalidades essenciais
-- [ ] Outro: *(especificar)*
+- [ ] Outro: 
 
 ## 6. Tecnologias Escolhidas
 
 | Componente | Tecnologia |
 | ----------- | ----------- |
-| Front-end | |
+| Front-end | HTML/CSS/JavaScript |
 | Back-end (se houver) | |
 | Banco de dados (se houver) | |
 | Hospedagem | |
