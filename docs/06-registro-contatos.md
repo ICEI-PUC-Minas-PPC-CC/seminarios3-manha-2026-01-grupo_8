@@ -1,7 +1,7 @@
 # 06 — Registro de Contatos com a Comunidade
 
-> **Grupo:** *(preencher)*  
-> **Comunidade:** *(preencher)*
+> **Grupo:** 8 
+> **Comunidade:** Tarso de Coimbra
 
 ---
 
