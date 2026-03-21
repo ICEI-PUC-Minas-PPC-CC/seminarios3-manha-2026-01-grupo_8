@@ -67,8 +67,8 @@ Ela foi pensada para ser simples e acessível, permitindo que todos consigam apr
 (Inclua esboços das telas principais ou links para protótipos — mesmo rascunhos simples em papel são válidos. Salvem imagens dos wireframes em `evidencias/prints/`.)
 <img width="1536" height="1024" alt="TelaSiteS3" src="https://github.com/user-attachments/assets/9dccb24a-767a-4457-9db2-a414f11fb80b" />
 <img width="1536" height="1024" alt="TelaQuiz" src="https://github.com/user-attachments/assets/220694b5-a39c-4c31-aa3a-47038215671a" />
-![site pc](https://github.com/user-attachments/assets/0eaab6c5-72d6-4e47-a8ec-d564579e7760)
 ![site celular](https://github.com/user-attachments/assets/5338af7e-aeb2-4c73-8903-53652386af60)
+![site pc2](https://github.com/user-attachments/assets/da589bb8-bd56-424e-9dbc-3f207e997dae)
 
 ## 8. Escopo Mínimo Viável (MVP)
 
