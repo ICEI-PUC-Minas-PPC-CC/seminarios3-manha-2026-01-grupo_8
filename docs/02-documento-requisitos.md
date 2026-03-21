@@ -60,7 +60,7 @@ Ela foi pensada para ser simples e acessível, permitindo que todos consigam apr
 | Back-end (se houver) | |
 | Banco de dados (se houver) | |
 | Hospedagem | |
-| Outras ferramentas | |
+| Outras ferramentas | MakeIA |
 
 ## 7. Protótipo / Wireframes
 
