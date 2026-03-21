@@ -19,7 +19,13 @@
 
 ## 🎯 Software a Ser Desenvolvido
 
-(Descreva brevemente a aplicação que será desenvolvida e seu objetivo.)
+O software a ser desenvolvido é um site de matemática básica pensado para ajudar a comunidade de forma simples e acessível.
+
+A ideia é que qualquer pessoa consiga usar e interagir ao máximo, principalmente crianças, idosos e pessoas com deficiência. Por isso, o sistema vai ser bem visual, com botões grandes, cores e pouca dependência de texto ou sons.
+
+No site, o usuário poderá responder contas básicas como soma, subtração, multiplicação e divisão, de maneira interativa, recebendo na hora se acertou ou errou.
+
+O objetivo é facilitar o aprendizado de matemática de um jeito mais dinâmico, simples e inclusivo para todos.
 
 ---
 
