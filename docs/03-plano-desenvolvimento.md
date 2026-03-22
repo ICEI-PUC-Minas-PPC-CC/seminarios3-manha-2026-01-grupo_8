@@ -1,7 +1,7 @@
 # 03 — Plano e Cronograma de Desenvolvimento
 
-> **Grupo:** *(preencher)*  
-> **Aplicação:** *(preencher)*
+> **Grupo:** *Bruno Felipe Tavares Figueiredo, Gabriel Mota Buére Xavier, Pedro dos Santos Peres*  
+> **Aplicação:** *Software de Testes de Matemáticas Básicas*
 
 ---
 
@@ -18,8 +18,8 @@
 
 | Semana | Período (dd/MM à dd/MM) | Atividade planejada | Responsável | Status |
 | :------: | --------- | -------------------- | -----------: | :------: |
-| 1 | 18/02 à 25/02 | Formação do grupo | Todos | iniciado |
-| 2 | | Contato com comunidade e Levantamento de demandas | | não iniciado |
+| 1 | 18/02 à 25/02 | Formação do grupo | Todos | concluído |
+| 2 | 06/03 | Contato com comunidade e Levantamento de demandas | Todos | concluído |
 | 3 | | Definição de requisitos | | não iniciado |
 | 4 | | Prototipação / wireframes | | não iniciado |
 | 5 | | Desenvolvimento — Sprint 1 | | não iniciado |
