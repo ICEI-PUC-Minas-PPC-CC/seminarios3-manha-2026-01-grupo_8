@@ -16,11 +16,11 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| Data | |
-| Forma de contato | *(Presencial / Online / E-mail / Telefone / WhatsApp)* |
-| Participantes do grupo | |
+| Data | 06/03/2026 |
+| Forma de contato | *Online* |
+| Participantes do grupo | Bruno Felipe Tavares Figueiredo, Gabriel Mota Buére Xavier, Pedro dos Santos Peres |
 | Participantes da comunidade | |
-| Objetivo do contato | |
+| Objetivo do contato | Conversar sobre as demandas atuais da Tarso de Coimbra |
 
 **Resumo do que foi tratado:**
 (Descrever o que foi discutido, decisões tomadas, demandas identificadas.)
