@@ -55,7 +55,7 @@
 
 | Data | Forma de contato | Resumo do que foi tratado |
 | ------ | ----------------- | -------------------------- |
-| | | |
+| 06/03/2026 | Online | Levantamento de demandas da Tarso de Coimbra |
 | | | |
 | | | |
 
