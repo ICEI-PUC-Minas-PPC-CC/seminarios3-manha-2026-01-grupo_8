@@ -9,9 +9,9 @@
 
 | Integrante | Responsabilidades principais |
 | ----------- | ------------------------------ |
-| Bruno Felipe Tavares Figueiredo | a ser definida |
-| Gabriel Mota Buére Xavier | a ser definida|
-| Pedro dos Santos Peres | a ser definida |
+| Bruno Felipe Tavares Figueiredo | indefinida |
+| Gabriel Mota Buére Xavier | indefinida|
+| Pedro dos Santos Peres | indefinida |
 
 ## 2. Cronograma de Desenvolvimento
 
