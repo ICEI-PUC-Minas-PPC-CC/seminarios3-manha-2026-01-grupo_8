@@ -19,7 +19,7 @@
 | :------: | --------- | -------------------- | -----------: | :------: |
 | 1 | 18/02 à 25/02 | Formação do grupo | Todos | concluído |
 | 2 | 06/03 à 12/03 | Contato com comunidade e Levantamento de demandas | Todos | concluído |
-| 3 | 13/03 à 21/03 | Definição de requisitos | | concluído |
+| 3 | 13/03 à 21/03 | Definição de requisitos | Todos | concluído |
 | 4 | | Prototipação / wireframes | | não iniciado |
 | 5 | | Desenvolvimento — Sprint 1 | | não iniciado |
 | 6 | | Desenvolvimento — Sprint 1 | | não iniciado |
