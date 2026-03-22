@@ -23,7 +23,7 @@
 | Objetivo do contato | Conversar sobre as demandas atuais da Tarso de Coimbra |
 
 **Resumo do que foi tratado:**
-(Descrever o que foi discutido, decisões tomadas, demandas identificadas.)
+Foi discutido sobre as demandas atuais da Tarso de Coimbra e oque poderíamos realizar para atendê-las. Nosso grupo decidiu se focar no tema 4 que é o "desenvolvimento de sistema para ensino de operações matemáticas básicas e tutorial de uso das ferramentas digitais para resolução", precisamos desenvolver um software que consiga relizar testes de matemáticas básicas e que seja direcionado para pessoas surdas de diferentes faixas etárias.
 
 **Encaminhamentos:**
 (O que ficou combinado para a próxima interação?)
@@ -41,8 +41,10 @@
 | Objetivo do contato | |
 
 **Resumo do que foi tratado:**
+(Descrever o que foi discutido, decisões tomadas, demandas identificadas.)
 
 **Encaminhamentos:**
+(O que ficou combinado para a próxima interação?)
 
 ---
 
