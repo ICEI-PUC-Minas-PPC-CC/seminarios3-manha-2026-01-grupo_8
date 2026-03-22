@@ -64,10 +64,10 @@ Em qualquer navegador com acesso a internet.
 
 | Risco | Probabilidade | Impacto | Mitigação |
 | ------- | :------------: | :-------: | ---------- |
-| Atraso no cronograma | 20% | Alto | Entregas e desenvolvimentos semanais |
-| Dificuldade técnica inesperada | 20% | Alto | Garantir o funcionamento de ambas funções |
-| Comunidade indisponível para reuniões | 50% | Médio | Agendar com antecedência reuniões constantes |
-| Problemas de infraestrutura no dia da entrega | 10% | Alto | Ja deixar tudo preparado com no mínimo 48 horas de antecedência e contatar o professor se esta tudo de acordo |
+| Atraso no cronograma | Baixa | Alto | Entregas e desenvolvimentos semanais |
+| Dificuldade técnica inesperada | Baixa | Alto | Garantir o funcionamento de ambas funções |
+| Comunidade indisponível para reuniões | Média| Médio | Agendar com antecedência reuniões constantes |
+| Problemas de infraestrutura no dia da entrega | Baixa | Alto | Ja deixar tudo preparado com no mínimo 48 horas de antecedência e contatar o professor se esta tudo de acordo |
 
 ## 6. Comunicação do Grupo
 
