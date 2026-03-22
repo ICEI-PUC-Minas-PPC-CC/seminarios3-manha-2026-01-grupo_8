@@ -9,9 +9,9 @@
 
 | Integrante | Responsabilidades principais |
 | ----------- | ------------------------------ |
-| Bruno Felipe Tavares Figueiredo | indefinida |
-| Gabriel Mota Buére Xavier | indefinida|
-| Pedro dos Santos Peres | indefinida |
+| Bruno Felipe Tavares Figueiredo | Desenvolvedor front-end + atualização do repositório  |
+| Gabriel Mota Buére Xavier | Desenvolvedor da lógica do sistema (JavaScript) + Testes |
+| Pedro dos Santos Peres | Documentação e contato com a comunidade + Parte visual do site |
 
 ## 2. Cronograma de Desenvolvimento
 
@@ -20,7 +20,7 @@
 | 1 | 18/02 à 25/02 | Formação do grupo | Todos | concluído |
 | 2 | 06/03 à 12/03 | Contato com comunidade e Levantamento de demandas | Todos | concluído |
 | 3 | 13/03 à 21/03 | Definição de requisitos | Bruno | concluído |
-| 4 | 13/03 à 21/03 | Prototipação / wireframes | Bruno, Gabriel | não iniciado |
+| 4 | 13/03 à 21/03 | Prototipação / wireframes | Bruno, Gabriel | concluído |
 | 5 | | Desenvolvimento — Sprint 1 |  | não iniciado |
 | 6 | | Desenvolvimento — Sprint 1 |  | não iniciado |
 | 7 | | Validação com a comunidade |  | não iniciado |
@@ -38,8 +38,8 @@
 
 | Marco | Data prevista | Critério de conclusão |
 | ------- | :------------: | ---------------------- |
-| Demandas levantadas | | Registro de contato com a comunidade |
-| Requisitos definidos | | Documento `02-documento-requisitos.md` preenchido |
+| Demandas levantadas | 14/03 à 21/03 | Registro de contato com a comunidade |
+| Requisitos definidos | 14/03 à 21/03 | Documento `02-documento-requisitos.md` preenchido |
 | Protótipo aprovado | | Wireframes validados com a comunidade |
 | MVP funcional | | Funcionalidades mínimas operacionais |
 | Deploy realizado | | Aplicação acessível pela Internet |
@@ -50,21 +50,21 @@
 
 ### Ambiente de desenvolvimento
 
-(Descreva o setup: editor de código, controle de versão, branches, etc.)
+Utilizaremos o VScode para desenvolvermos a parte HTML, CSS e Js que permitirá a formção do site. Também, estudaremos a possibilidade de um assistente de ia que fornece dicas sobre perguntas, feito no MakeIA ou outra aplicação para automação.
 
 ### Estratégia de testes
 
-(Como o grupo vai testar a aplicação antes da entrega?)
+O grupo testará com amigos e familiares, até mesmo no ambiente da PUC Minas, para garantir que tudo esteja de acordo para o dia a apresentação.
 
 ### Estratégia de deploy
 
-(Onde e como a aplicação será hospedada?)
+E qualquer navegador com acesso a internet.
 
 ## 5. Riscos e Mitigações
 
 | Risco | Probabilidade | Impacto | Mitigação |
 | ------- | :------------: | :-------: | ---------- |
-| Atraso no cronograma | | | |
+| Atraso no cronograma | 2/10 | Alto | |
 | Dificuldade técnica inesperada | | | |
 | Comunidade indisponível para reuniões | | | |
 | Problemas de infraestrutura no dia da entrega | | | |
