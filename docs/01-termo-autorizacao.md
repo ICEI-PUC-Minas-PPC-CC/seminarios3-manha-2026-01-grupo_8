@@ -40,7 +40,7 @@
 | Público-alvo | Deficientes auditivos |
 | Nº estimado de usuários | Indefinida(desnecessária) |
 | Faixa etária do público | Qualquer faixa etária |
-| Tecnologias previstas |  |
+| Tecnologias previstas | HTML/CSS/JavaScript |
 | Hospedagem prevista | Site |
 
 ### Breve descrição da aplicação e sua finalidade
