@@ -19,7 +19,7 @@
 | Data | 06/03/2026 |
 | Forma de contato | *Online* |
 | Participantes do grupo | Bruno Felipe Tavares Figueiredo, Gabriel Mota Buére Xavier, Pedro dos Santos Peres |
-| Participantes da comunidade | |
+| Participantes da comunidade | Estudantes de Ciência da Computação, o Professor responsável, e membros da Tarso de Coimbra |
 | Objetivo do contato | Conversar sobre as demandas atuais da Tarso de Coimbra |
 
 **Resumo do que foi tratado:**
