@@ -58,21 +58,21 @@ O grupo testará com amigos e familiares, até mesmo no ambiente da PUC Minas, p
 
 ### Estratégia de deploy
 
-E qualquer navegador com acesso a internet.
+Em qualquer navegador com acesso a internet.
 
 ## 5. Riscos e Mitigações
 
 | Risco | Probabilidade | Impacto | Mitigação |
 | ------- | :------------: | :-------: | ---------- |
-| Atraso no cronograma | 2/10 | Alto | |
-| Dificuldade técnica inesperada | | | |
-| Comunidade indisponível para reuniões | | | |
-| Problemas de infraestrutura no dia da entrega | | | |
+| Atraso no cronograma | 20% | Alto | Entregas e desenvolvimentos semanais |
+| Dificuldade técnica inesperada | 20% | Alto | Garantir o funcionamento de ambas funções |
+| Comunidade indisponível para reuniões | 50% | Médio | Agendar com antecedência reuniões constantes |
+| Problemas de infraestrutura no dia da entrega | 10% | Alto | Ja deixar tudo preparado com no mínimo 48 horas de antecedência e contatar o professor se esta tudo de acordo |
 
 ## 6. Comunicação do Grupo
 
 | Canal | Finalidade |
 | ------- | ----------- |
-| *(WhatsApp / Discord / Teams)* | Comunicação diária |
-| *(GitHub Issues / Projects)* | Controle de tarefas |
+| *(WhatsApp / Discord / Teams)* | Discutir, analisar e trabalhar ao vivo |
+| *(GitHub Issues / Projects)* | Controle de tarefas, alterações |
 | *(Reuniões semanais)* | Alinhamento do grupo |
