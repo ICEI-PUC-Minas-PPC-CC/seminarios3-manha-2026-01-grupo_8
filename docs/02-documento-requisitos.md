@@ -16,7 +16,7 @@ Ela foi pensada para ser simples e acessível, permitindo que todos consigam apr
 | Campo | Informação |
 | ------- | ----------- |
 | Perfil dos usuários | Pessoas com necessidades especiais |
-| Faixa etária | Crianças,, adolescentes, adultos e idosos|
+| Faixa etária | Crianças, adolescentes, adultos e idosos|
 | Necessidades de acessibilidade | Alta |
 | Nível de familiaridade com tecnologia | Médio |
 
@@ -50,7 +50,7 @@ Ela foi pensada para ser simples e acessível, permitindo que todos consigam apr
 - [x] Contraste adequado de cores
 - [ ] Compatível com Libras (se aplicável: vídeos, sinais, glossário)
 - [x] Sem dependência de áudio para funcionalidades essenciais
-- [ ] Outro: 
+- [x] Outro: Assistente IA que auxilia dando dicas
 
 ## 6. Tecnologias Escolhidas
 
@@ -74,9 +74,9 @@ Ela foi pensada para ser simples e acessível, permitindo que todos consigam apr
 
 (Quais funcionalidades compõem a versão mínima que pode ser entregue à comunidade?)
 
-- [ ] Botões e ícones grandes
-- [ ] Textos visíveis com cores estratégicas
-- [ ] Interface simples
+- [x] Botões e ícones grandes
+- [x] Textos visíveis com cores estratégicas
+- [x] Interface simples
 
 ## 9. Funcionalidades Desejáveis (se houver tempo)
 
