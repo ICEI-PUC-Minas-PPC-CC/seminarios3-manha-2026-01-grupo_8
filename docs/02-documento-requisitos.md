@@ -44,12 +44,12 @@ Ela foi pensada para ser simples e acessível, permitindo que todos consigam apr
 
 ## 5. Requisitos de Acessibilidade
 
-- [ ] Interface predominantemente visual (ícones, cores, imagens)
-- [ ] Textos curtos e objetivos
-- [ ] Botões grandes e identificáveis
-- [ ] Contraste adequado de cores
+- [x] Interface predominantemente visual (ícones, cores, imagens)
+- [x] Textos curtos e objetivos
+- [x] Botões grandes e identificáveis
+- [x] Contraste adequado de cores
 - [ ] Compatível com Libras (se aplicável: vídeos, sinais, glossário)
-- [ ] Sem dependência de áudio para funcionalidades essenciais
+- [x] Sem dependência de áudio para funcionalidades essenciais
 - [ ] Outro: 
 
 ## 6. Tecnologias Escolhidas
