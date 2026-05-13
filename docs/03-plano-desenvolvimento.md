@@ -40,8 +40,8 @@
 | ------- | :------------: | ---------------------- |
 | Demandas levantadas | 14/03 à 21/03 | Registro de contato com a comunidade |
 | Requisitos definidos | 14/03 à 21/03 | Documento `02-documento-requisitos.md` preenchido |
-| Protótipo aprovado | | Wireframes validados com a comunidade |
-| MVP funcional | | Funcionalidades mínimas operacionais |
+| Protótipo aprovado | até 16/05 | Wireframes validados com a comunidade |
+| MVP funcional | até 16/05 | Funcionalidades mínimas operacionais |
 | Deploy realizado | | Aplicação acessível pela Internet |
 | Entrega presencial | | Software apresentado à comunidade |
 | Relatórios APC | | Relatório e autoavaliação preenchidos |
