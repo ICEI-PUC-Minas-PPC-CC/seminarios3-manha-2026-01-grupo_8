@@ -8,11 +8,11 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| Nome do Grupo | |
-| Integrantes participantes | |
+| Nome do Grupo | Grupo 8 |
+| Integrantes participantes | 3 |
 | Disciplina | Seminários III |
-| Comunidade atendida | |
-| Software desenvolvido | |
+| Comunidade atendida | Tarso de Coimbras |
+| Software desenvolvido | Aplicação Web |
 | URL da aplicação (se hospedada) | |
 
 ## Cronograma de Desenvolvimento
@@ -20,8 +20,7 @@
 > **Atenção:** O relatório APC exige um cronograma detalhado. Relatórios com poucas atividades ou sem descrição adequada serão penalizados.
 
 | Data | Etapa | Descrição do que foi feito |
-| ------ | ------- | --------------------------- |
-| | Formação do grupo | |
+| 07/03/2026 | Formação do grupo | Foi definido o grupo com os integrantes: Gabriel Mota, Pedro dos Santos e Bruno Tavares. |
 | | Contato inicial com a comunidade | |
 | | Levantamento de demandas | |
 | | Definição de requisitos | |
