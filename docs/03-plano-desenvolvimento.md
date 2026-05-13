@@ -21,9 +21,9 @@
 | 2 | 06/03 à 12/03 | Contato com comunidade e Levantamento de demandas | Todos | concluído |
 | 3 | 13/03 à 21/03 | Definição de requisitos | Bruno | concluído |
 | 4 | 13/03 à 21/03 | Prototipação / wireframes | Bruno, Gabriel | concluído |
-| 5 | | Desenvolvimento — Sprint 1 |  | não iniciado |
-| 6 | | Desenvolvimento — Sprint 1 |  | não iniciado |
-| 7 | | Validação com a comunidade |  | não iniciado |
+| 5 | 10/05 à 16/05 | Desenvolvimento — Sprint 1 | Todos | iniciado |
+| 6 | 10/05 à 16/05 | Desenvolvimento — Sprint 1 | Todos | iniciado |
+| 7 | 10/05 à 16/05 | Validação com a comunidade |  | não iniciado |
 | 8 | | Desenvolvimento — Sprint 2 | | não iniciado |
 | 9 | | Desenvolvimento — Sprint 2 | | não iniciado |
 | 10 | | Testes e ajustes | | não iniciado |
