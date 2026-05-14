@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Matemática Fácil: aplicação acessível para aprender matemática básica na comunidade Tarso de Coimbra." />
+  <title>Matemática Fácil | Tarso de Coimbra</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
+
+  <header class="topo">
+    <div class="barra-topo">
+      <a class="logo" href="#inicio" aria-label="Ir para a tela inicial">
+        <span class="logo-icone" aria-hidden="true">💡</span>
+        <span>
+          <strong>Matemática Fácil</strong>
+          <small>Tarso de Coimbra</small>
+        </span>
+      </a>
+
+      <div class="acoes-topo">
+        <button class="botao-topo" data-tela="inicio" type="button">Início</button>
+        <button class="botao-topo" data-tela="aprender" type="button">Aprender</button>
+        <button class="botao-topo destaque" data-tela="exercicios" type="button">Exercícios</button>
+        <button class="botao-topo" id="botaoContraste" type="button">Contraste</button>
+      </div>
+    </div>
+  </header>
+
+  <main id="conteudo">
+    <section class="tela ativa" id="inicio" aria-labelledby="titulo-inicio">
+      <div class="banner-faixa" role="img" aria-label="Espaço para inserir o banner principal do site">
+        <div>
+          <strong>Banner principal</strong>
+          <small>Coloque aqui a arte horizontal do site</small>
+        </div>
+      </div>
+
+      <div class="hero-texto centralizado">
+        <p class="selo">Comunidade parceira: Tarso de Coimbra</p>
+        <h1 id="titulo-inicio">Aprender matemática ficou mais fácil</h1>
+        <p>
+          Um site visual, colorido e acessível para treinar matemática básica
+          com botões grandes, números e imagens.
+        </p>
+
+        <div class="botoes centro">
+          <button class="botao botao-principal" data-tela="exercicios" type="button">Começar exercícios</button>
+          <button class="botao botao-claro" data-tela="aprender" type="button">Aprender matemática básica</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="tela" id="aprender" aria-labelledby="titulo-aprender">
+      <div class="cabecalho-tela">
+        <p class="selo">Aprender com imagens</p>
+        <h2 id="titulo-aprender">Matemática básica</h2>
+        <p>Escolha um card e veja com números, bolinhas e cores.</p>
+      </div>
+
+      <div class="grid-aprender">
+        <article class="card-aprender soma">
+          <div class="icone-card" aria-hidden="true">+</div>
+          <h3>Adição</h3>
+          <p>Somar é juntar.</p>
+          <div class="exemplo-visual">
+            <div class="grupo-numero">
+              <strong>2</strong>
+              <div><span></span><span></span></div>
+            </div>
+            <b>+</b>
+            <div class="grupo-numero">
+              <strong>3</strong>
+              <div><span></span><span></span><span></span></div>
+            </div>
+          </div>
+          <div class="resultado">2 + 3 = 5</div>
+        </article>
+
+        <article class="card-aprender subtracao">
+          <div class="icone-card" aria-hidden="true">−</div>
+          <h3>Subtração</h3>
+          <p>Subtrair é tirar.</p>
+          <div class="exemplo-visual">
+            <div class="grupo-numero">
+              <strong>5</strong>
+              <div><span></span><span></span><span></span><span></span><span></span></div>
+            </div>
+            <b>−</b>
+            <div class="grupo-numero apagado">
+              <strong>2</strong>
+              <div><span></span><span></span></div>
+            </div>
+          </div>
+          <div class="resultado">5 − 2 = 3</div>
+        </article>
+
+        <article class="card-aprender contagem">
+          <div class="icone-card" aria-hidden="true">123</div>
+          <h3>Contagem</h3>
+          <p>Contar é ir um por um.</p>
+          <div class="numeros-grandes">
+            <span>1</span><span>2</span><span>3</span><span>4</span><span>5</span>
+          </div>
+          <div class="resultado">1, 2, 3, 4, 5...</div>
+        </article>
+
+        <article class="card-aprender comparacao">
+          <div class="icone-card" aria-hidden="true">&gt;</div>
+          <h3>Comparação</h3>
+          <p>Comparar é ver o maior.</p>
+          <div class="comparar">
+            <span>8</span>
+            <b>&gt;</b>
+            <span>5</span>
+          </div>
+          <div class="resultado">8 é maior que 5</div>
+        </article>
+      </div>
+
+      <div class="area-voltar">
+        <button class="botao botao-principal" data-tela="exercicios" type="button">Praticar agora</button>
+      </div>
+    </section>
+
+    <section class="tela" id="exercicios" aria-labelledby="titulo-exercicios">
+      <div class="cabecalho-tela cabecalho-exercicios">
+        <div>
+          <p class="selo">15 perguntas</p>
+          <h2 id="titulo-exercicios">Exercícios de matemática</h2>
+          <p>Responda usando os botões grandes. Os números e as bolinhas ajudam a contar.</p>
+        </div>
+
+        <div class="placar">
+          <article>
+            <span aria-hidden="true">⭐</span>
+            <strong id="pontos">0</strong>
+            <p>Pontos</p>
+          </article>
+          <article>
+            <span aria-hidden="true">✓</span>
+            <strong id="acertos">0</strong>
+            <p>Acertos</p>
+          </article>
+          <article>
+            <span aria-hidden="true">#</span>
+            <strong><span id="numeroAtual">1</span>/15</strong>
+            <p>Pergunta</p>
+          </article>
+        </div>
+      </div>
+
+      <section class="quiz-card" aria-labelledby="pergunta">
+        <p class="selo" id="tipoQuestao">Adição</p>
+        <h3 id="pergunta">Quanto é 2 + 3?</h3>
+
+        <div class="visual-conta" id="visualConta" aria-label="Representação visual da pergunta"></div>
+
+        <div class="opcoes" id="opcoes" aria-label="Opções de resposta"></div>
+
+        <p class="feedback" id="feedback" role="status" aria-live="polite"></p>
+
+        <div class="botoes centro">
+          <button class="botao botao-principal" id="botaoProximo" type="button">Próxima</button>
+          <button class="botao botao-claro" id="botaoReiniciar" type="button">Reiniciar</button>
+        </div>
+      </section>
+
+      <section class="libras-abaixo" aria-labelledby="titulo-libras-exercicio">
+        <div class="libras-texto">
+          <p class="selo">Apoio visual em Libras</p>
+          <h3 id="titulo-libras-exercicio">Espaço para Libras</h3>
+          <p>
+            Use este espaço para inserir imagem, sinal, QR Code ou orientação visual
+            em Libras relacionada ao exercício.
+          </p>
+        </div>
+
+        <div class="foto-libras" role="img" aria-label="Espaço para inserir imagem, sinal ou QR Code em Libras">
+          <strong>Imagem de Libras</strong>
+          <small>Coloque aqui a foto, sinal ou QR Code</small>
+        </div>
+      </section>
+    </section>
+
+    <section class="tela" id="resultado" aria-labelledby="titulo-resultado">
+      <div class="resultado-final">
+        <p class="selo">Fim dos exercícios</p>
+        <h2 id="titulo-resultado">Resultado final</h2>
+
+        <div class="trofeu" aria-hidden="true">🏆</div>
+
+        <p class="frase-final" id="fraseFinal">Você concluiu os exercícios!</p>
+
+        <div class="placar final">
+          <article>
+            <span aria-hidden="true">✓</span>
+            <strong id="acertosFinal">0</strong>
+            <p>Acertos</p>
+          </article>
+          <article>
+            <span aria-hidden="true">⭐</span>
+            <strong id="pontosFinal">0</strong>
+            <p>Pontos</p>
+          </article>
+          <article>
+            <span aria-hidden="true">15</span>
+            <strong>15</strong>
+            <p>Total</p>
+          </article>
+        </div>
+
+        <div class="botoes centro">
+          <button class="botao botao-principal" id="botaoTentarNovamente" type="button">Tentar novamente</button>
+          <button class="botao botao-claro" data-tela="inicio" type="button">Voltar ao início</button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="rodape">
+    <p>Grupo 8: Bruno Felipe, Pedro e Gabriel | Comunidade Tarso de Coimbra | PUC Minas</p>
+  </footer>
+
+  <div vw class="enabled">
+    <div vw-access-button class="active"></div>
+    <div vw-plugin-wrapper>
+      <div class="vw-plugin-top-wrapper"></div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+  <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+  <script>
+    if (window.VLibras) {
+      new window.VLibras.Widget("https://vlibras.gov.br/app");
+    }
+  </script>
+</body>
+</html>
