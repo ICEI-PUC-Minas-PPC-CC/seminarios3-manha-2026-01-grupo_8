@@ -11,7 +11,7 @@
 | Nome do Grupo | Grupo 8 |
 | Integrantes participantes | 3 |
 | Disciplina | Seminários III |
-| Comunidade atendida | Tarso de Coimbras |
+| Comunidade atendida | Tarso de Coimbra |
 | Software desenvolvido | Aplicação Web |
 | URL da aplicação (se hospedada) | |
 
