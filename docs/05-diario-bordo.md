@@ -35,7 +35,7 @@ Com base nas pesquisas realizadas, foi possível estruturar melhor o planejament
 
 ---
 
-### Semana 10 — 09/05/2026 a 16/05/2026
+### Semana 09 e 10 — 02/05/2026 a 16/05/2026
 
 Nesta etapa foi iniciado oficialmente o desenvolvimento da aplicação. Inicialmente, o grupo realizou a configuração do ambiente de desenvolvimento e da estrutura do repositório, organizando corretamente as pastas e arquivos do projeto para facilitar o trabalho em equipe e evitar conflitos durante o desenvolvimento.
 
