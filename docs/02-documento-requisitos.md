@@ -50,7 +50,7 @@ Ela foi pensada para ser simples e acessível, permitindo que todos consigam apr
 - [x] Contraste adequado de cores
 - [ ] Compatível com Libras (se aplicável: vídeos, sinais, glossário)
 - [x] Sem dependência de áudio para funcionalidades essenciais
-- [x] Outro: Assistente IA que auxilia dando dicas
+- [ ] Outro: Assistente IA que auxilia dando dicas
 
 ## 6. Tecnologias Escolhidas
 
