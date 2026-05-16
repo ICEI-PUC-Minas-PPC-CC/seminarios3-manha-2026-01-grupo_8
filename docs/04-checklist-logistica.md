@@ -26,13 +26,13 @@
 
 ## 📋 Etapa 3 — Desenvolvimento
 
-- [ ] Repositório configurado com a estrutura do template
-- [ ] Desenvolvimento do MVP iniciado
+- [x] Repositório configurado com a estrutura do template
+- [x] Desenvolvimento do MVP iniciado
 - [x] Contato intermediário com a comunidade para validação
-- [ ] MVP funcional concluído
-- [ ] Testes realizados
+- [x] MVP funcional concluído
+- [x] Testes realizados
 - [ ] Deploy em nuvem realizado (se aplicável)
-- [ ] Aplicação acessível pela Internet
+- [x] Aplicação acessível pela Internet
 
 ## 📋 Etapa 4 — Entrega Presencial
 
