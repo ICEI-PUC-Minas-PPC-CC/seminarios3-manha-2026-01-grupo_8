@@ -41,6 +41,9 @@ Nesta etapa foi iniciado oficialmente o desenvolvimento da aplicação. Inicialm
 
 Também foram definidas as tecnologias principais utilizadas na aplicação, bem como o padrão de organização do código e divisão das tarefas entre os integrantes. Além disso, foram iniciadas as primeiras implementações da interface da plataforma e realizados testes preliminares relacionados à navegação e estrutura visual da aplicação.
 
+Por fim, foi concluído o protótipo do projeto que conta com explicações e testes simples para calcúlos básicos de soma e subtração adaptados para o uso de pessoas com deficiencias auditivas, como aspectos visuais para ajuda no raciocínio. Também foi realizada uma reunião com membros da Tarso de Coimbra para validação do projeto e consulta para o desenvolvimento posterior.
+
+
 ## Registro da Entrega Presencial
 
 **Data:** ___/___/___  
