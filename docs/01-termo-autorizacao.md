@@ -45,18 +45,18 @@
 
 ### Breve descrição da aplicação e sua finalidade
 
-(Descreva aqui o software que será desenvolvido, seus objetivos e como atende às demandas da comunidade.)
+Sistema de ensino e testes de operações de matemática básica direcionados para deficientes auditivos de diferentes faixas etárias.
 
 ## 4. Levantamento de Demandas da Comunidade
 
-(Descreva como as demandas foram levantadas — reuniões presenciais, reuniões online, conversa com responsável, questionário, etc. — e como a aplicação proposta atende a essas demandas.)
+O sistema deve contar com...
 
 ### Registro de contatos com a comunidade
 
 | Data | Forma de contato | Resumo do que foi tratado |
 | ------ | ----------------- | -------------------------- |
 | 06/03/2026 | Online | Levantamento de demandas da Tarso de Coimbra |
-| | | |
+| 14/05/2026 | Presencial | Validação inicial do projeto com a comunidade |
 | | | |
 
 ## 5. Agendamento da Entrega Presencial
