@@ -20,7 +20,7 @@
 
 - [x] Documento de requisitos elaborado (`02-documento-requisitos.md`)
 - [x] Protótipo/wireframes criados
-- [ ] Protótipo validado com a comunidade
+- [x] Protótipo validado com a comunidade
 - [x] Tecnologias definidas
 - [x] Plano de desenvolvimento elaborado (`03-plano-desenvolvimento.md`)
 
@@ -28,7 +28,7 @@
 
 - [ ] Repositório configurado com a estrutura do template
 - [ ] Desenvolvimento do MVP iniciado
-- [ ] Contato intermediário com a comunidade para validação
+- [x] Contato intermediário com a comunidade para validação
 - [ ] MVP funcional concluído
 - [ ] Testes realizados
 - [ ] Deploy em nuvem realizado (se aplicável)
