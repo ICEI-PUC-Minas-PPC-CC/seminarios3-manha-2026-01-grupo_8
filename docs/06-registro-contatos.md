@@ -23,10 +23,10 @@
 | Objetivo do contato | Conversar sobre as demandas atuais da Tarso de Coimbra |
 
 **Resumo do que foi tratado:**
-Foi discutido sobre as demandas atuais da Tarso de Coimbra e oque poderíamos realizar para atendê-las. Nosso grupo decidiu se focar no tema 4 que é o "desenvolvimento de sistema para ensino de operações matemáticas básicas e tutorial de uso das ferramentas digitais para resolução", precisamos desenvolver um software de fácil acesso que consiga relizar testes de matemáticas básicas e que seja direcionado para pessoas surdas de diferentes faixas etárias.
+Foi discutido sobre as demandas atuais da Tarso de Coimbra e oque poderíamos realizar para atendê-las. O grupo decidiu se focar no tema 4 que é o "desenvolvimento de sistema para ensino de operações matemáticas básicas e tutorial de uso das ferramentas digitais para resolução", precisamos desenvolver um software de fácil acesso que consiga relizar testes de matemáticas básicas e que seja direcionado para pessoas surdas de diferentes faixas etárias.
 
 **Encaminhamentos:**
-(O que ficou combinado para a próxima interação?)
+Apresentar o protótipo do software para validar e tentar melhorar o projeto.
 
 ---
 
@@ -41,10 +41,10 @@ Foi discutido sobre as demandas atuais da Tarso de Coimbra e oque poderíamos re
 | Objetivo do contato | Validação do projeto, e consulta para desenvolvimento posterior |
 
 **Resumo do que foi tratado:**
-(Descrever o que foi discutido, decisões tomadas, demandas identificadas.)
+Foi realizada uma reunião presencial no campus da PUC entre o grupo e membros da Tarso de Coimbra com o objetivo de validar o projeto e entender o que e como podemos melhorar o software, adaptando de forma adequada para que futuramente possa ser utilizado de forma intuitiva por pessoas com deficiências auditivas de qualquer faixa etária (objetivo final do projeto).
 
 **Encaminhamentos:**
-(O que ficou combinado para a próxima interação?)
+Realizar a entrega presencial da implementação do projeto finalizado (etapa 4).
 
 ---
 
