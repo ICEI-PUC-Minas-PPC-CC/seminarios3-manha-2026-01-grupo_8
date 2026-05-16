@@ -36,7 +36,7 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| Título/Tema da aplicação | 4. Desenvolvimento de sistema para ensino de operações matemáticas básicas e tutorial de uso das ferramentas digitais para resolução |
+| Título/Tema da aplicação | Desenvolvimento de sistema para ensino de operações matemáticas básicas e tutorial de uso das ferramentas digitais para resolução |
 | Público-alvo | Deficientes auditivos |
 | Nº estimado de usuários | Indefinida(desnecessária) |
 | Faixa etária do público | Qualquer faixa etária |
