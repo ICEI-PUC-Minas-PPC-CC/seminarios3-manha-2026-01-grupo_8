@@ -59,7 +59,7 @@ Ela foi pensada para ser simples e acessível, permitindo que todos consigam apr
 | Front-end | HTML/CSS/JavaScript |
 | Back-end (se houver) | |
 | Banco de dados (se houver) | |
-| Hospedagem | |
+| Hospedagem | GitHub |
 | Outras ferramentas | MakeIA |
 
 ## 7. Protótipo / Wireframes
@@ -77,9 +77,11 @@ Ela foi pensada para ser simples e acessível, permitindo que todos consigam apr
 - [x] Botões e ícones grandes
 - [x] Textos visíveis com cores estratégicas
 - [x] Interface simples
+- [x] Operações matemáticas básicas
+- [x] Acessível via web
 
 ## 9. Funcionalidades Desejáveis (se houver tempo)
 
 - Modo para daltônicos
 - Botão para chamar ajuda
-- integração com uma IA feita usando automação que ajuda o usuário que tenha duvidas, de maneira simples mas sem entregar a resposta
+- integração com uma IA feita usando automação que ajuda o usuário que tenha duvidas.
