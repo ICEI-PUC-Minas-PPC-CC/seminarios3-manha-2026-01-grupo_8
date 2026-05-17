@@ -26,9 +26,9 @@ Ela foi pensada para ser simples e acessível, permitindo que todos consigam apr
 
 | ID | Requisito | Prioridade | Origem da demanda |
 | ---- | ---------- | :----------: | ------------------ |
-| RF01 | | *(Alta/Média/Baixa)* | *(Reunião com a comunidade em DD/MM)* |
-| RF02 | | | |
-| RF03 | | | |
+| RF01 | O sistema deve exibir exercícios de matemática básica | Alta | Discussão em grupo |
+| RF02 | O sistema deve corrigir respostas automaticamente | Alta | Discussão em grupo |
+| RF03 | O sistema deve guardar a pontuação | Média | Definição técnica |
 | RF04 | | | |
 | RF05 | | | |
 
@@ -48,7 +48,7 @@ Ela foi pensada para ser simples e acessível, permitindo que todos consigam apr
 - [x] Textos curtos e objetivos
 - [x] Botões grandes e identificáveis
 - [x] Contraste adequado de cores
-- [ ] Compatível com Libras (se aplicável: vídeos, sinais, glossário)
+- [x] Compatível com Libras (se aplicável: vídeos, sinais, glossário)
 - [x] Sem dependência de áudio para funcionalidades essenciais
 - [ ] Outro: Assistente IA que auxilia dando dicas
 
