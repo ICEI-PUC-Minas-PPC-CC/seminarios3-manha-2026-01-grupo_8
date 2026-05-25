@@ -36,17 +36,22 @@ body {
   line-height: 1.5;
 }
 
-body {
-  margin: 0;
-  min-height: 100vh;
-  font-family: Arial, Helvetica, sans-serif;
-  color: var(--texto);
-  background:
-    radial-gradient(circle at 8% 12%, #fff6b8 0 7%, transparent 18%),
-    radial-gradient(circle at 92% 10%, #d5f9ff 0 9%, transparent 20%),
-    linear-gradient(180deg, #aeeaff 0%, #f9fdff 46%, #e7f8ff 100%);
-  line-height: 1.5;
+body.alto-contraste {
+  --azul: #000;
+  --azul-2: #000;
+  --azul-escuro: #000;
+  --amarelo: #ffff00;
+  --laranja: #000;
+  --verde: #000;
+  --vermelho: #000;
+  --roxo: #000;
+  --rosa: #000;
+  --texto: #000;
+  --suave: #000;
+  --borda: #000;
+  background: #fff;
 }
+
 button,
 a {
   font: inherit;
@@ -362,6 +367,14 @@ h3 {
   border-color: var(--azul);
 }
 
+.card-aprender.multiplicacao {
+  border-color: var(--laranja);
+}
+
+.card-aprender.divisao {
+  border-color: var(--amarelo);
+}
+
 .card-aprender.contagem {
   border-color: var(--rosa);
 }
@@ -385,6 +398,8 @@ h3 {
 
 .soma .icone-card { background: var(--verde); }
 .subtracao .icone-card { background: var(--azul); }
+.multiplicacao .icone-card { background: var(--laranja); }
+.divisao .icone-card { background: var(--amarelo); color: #4a2500; }
 .contagem .icone-card { background: var(--rosa); }
 .comparacao .icone-card { background: var(--roxo); }
 
