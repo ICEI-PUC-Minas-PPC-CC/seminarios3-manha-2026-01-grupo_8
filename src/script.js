@@ -49,7 +49,7 @@ function embaralhar(lista) {
 }
 
 function criarQuestao() {
-  const tipos = ["soma", "subtracao", "comparacao"];
+  const tipos = ["soma", "subtracao", "multiplicacao", "divisao", "comparacao"];
   const tipo = tipos[numeroAleatorio(0, tipos.length - 1)];
 
   let a = numeroAleatorio(1, 10);
@@ -72,6 +72,24 @@ function criarQuestao() {
     pergunta = `Quanto é ${a} − ${b}?`;
     nomeTipo = "Subtração";
     operador = "−";
+  }
+
+  if (tipo === "multiplicacao") {
+    a = numeroAleatorio(1, 5);
+    b = numeroAleatorio(1, 5);
+    resposta = a * b;
+    pergunta = `Quanto é ${a} × ${b}?`;
+    nomeTipo = "Multiplicação";
+    operador = "×";
+  }
+
+  if (tipo === "divisao") {
+    b = numeroAleatorio(1, 5);
+    resposta = numeroAleatorio(1, 5);
+    a = b * resposta;
+    pergunta = `Quanto é ${a} ÷ ${b}?`;
+    nomeTipo = "Divisão";
+    operador = "÷";
   }
 
   if (tipo === "comparacao") {
