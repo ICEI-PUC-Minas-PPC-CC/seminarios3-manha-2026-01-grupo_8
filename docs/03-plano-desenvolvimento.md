@@ -24,12 +24,12 @@
 | 5 | 10/05 à 16/05 | Desenvolvimento — Sprint 1 | Todos | concluído |
 | 6 | 10/05 à 16/05 | Desenvolvimento — Sprint 1 | Todos | concluído |
 | 7 | 10/05 à 16/05 | Validação com a comunidade | Todos | concluído |
-| 8 | | Desenvolvimento — Sprint 2 | | não iniciado |
-| 9 | | Desenvolvimento — Sprint 2 | | não iniciado |
-| 10 | | Testes e ajustes | | não iniciado |
-| 11 | | Deploy / hospedagem | | não iniciado |
-| 12 | | Validação final com a comunidade | | não iniciado |
-| 13 | | **Entrega presencial** | Todos | não iniciado |
+| 8 | 16/05 à 17/06 | Desenvolvimento — Sprint 2 | | não iniciado |
+| 9 | 16/05 à 17/06 | Desenvolvimento — Sprint 2 | | não iniciado |
+| 10 | 16/05 à 17/06  | Testes e ajustes | | não iniciado |
+| 11 | 17/06 | Deploy / hospedagem | | não iniciado |
+| 12 | 18/06 | Validação final com a comunidade | | não iniciado |
+| 13 | 18/06 | **Entrega presencial** | Todos | não iniciado |
 | 14 | | Preenchimento dos relatórios APC | Todos | não iniciado |
 
 > Ajuste o cronograma conforme o calendário do semestre e os feriados.
