@@ -47,9 +47,13 @@ Por fim, foi concluído o protótipo do projeto que conta com explicações e te
 ## Registro da Entrega Presencial
 
 **Data:** 18/06/2026
+
 **Local:** PUC Prédio 1
+
 **Horário:** 15:20 às 15:30
+
 **Participantes do grupo presentes:** Bruno Tavares, Gabriel Buere, Pedro dos Santos
+
 **Nº de participantes da comunidade:** 10
 
 ### Descrição da entrega
