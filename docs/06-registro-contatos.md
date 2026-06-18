@@ -70,6 +70,6 @@ Preenchimento dos relatórios APC por cada membro do grupo de forma individual (
 
 | # | Demanda | Prioridade | Como será atendida no software |
 | --- | --------- | :----------: | ------------------------------- |
-| 1 | Possível deficiência ou dificuldade visual | *Baixa* | Adicionamos o botão "contraste" |
-| 2 | Possível dificuldade com as operações | *Média* | Adicionamos aspectos visuais claros para fácil entendimento |
-| 3 | | | |
+| 1 | Possível deficiência ou dificuldade visual | *Média* | Adicionamos o botão "contraste" |
+| 2 | Possível dificuldade com as operações | *Alta* | Adicionamos aspectos visuais claros para fácil entendimento |
+| 3 | Melhora do entendimento das operações | *Média* | Adicionamos os números e sinais de operação em Libras como apoio|
