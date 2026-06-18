@@ -8,9 +8,9 @@
 
 | Campo | Informação |
 |-------|-----------|
-| Nome da aplicação | *(preencher)* |
-| Tecnologias utilizadas | *(preencher)* |
-| URL em produção | *(preencher, se hospedado)* |
+| Nome da aplicação | *Matemática Fácil* |
+| Tecnologias utilizadas | *Java Script, CSS* |
+| URL em produção | *https://aprendamatematicafacil.netlify.app* |
 
 ## Como Executar Localmente
 
