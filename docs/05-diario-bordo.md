@@ -35,7 +35,7 @@ Com base nas pesquisas realizadas, foi possível estruturar melhor o planejament
 
 ---
 
-### Semana 09 e 10 — 02/05/2026 a 16/05/2026
+### Semanas 09 e 10 — 02/05/2026 a 16/05/2026
 
 Nesta etapa foi iniciado oficialmente o desenvolvimento da aplicação. Inicialmente, o grupo realizou a configuração do ambiente de desenvolvimento e da estrutura do repositório, organizando corretamente as pastas e arquivos do projeto para facilitar o trabalho em equipe e evitar conflitos durante o desenvolvimento.
 
@@ -58,12 +58,12 @@ Por fim, foi concluído o protótipo do projeto que conta com explicações e te
 
 ### Descrição da entrega
 
-(Relatar como foi a entrega: demonstração do software, reação dos usuários, dúvidas que surgiram, etc.)
+A entrega foi realizada de forma presencial através de uma reunião com a Tarso, em que apresentamos o software e suas funcionalidades. Os usuários interagiram bem com as perguntas e conseguiram entender com facilidade a parte de aprendizado.
 
 ### Feedback da comunidade
 
-(O que os usuários e responsáveis da comunidade acharam do software?)
+Aparentemente acharam o software adequado e intuitivo para o aprendizado geral de matemática básica.
 
 ### Lições aprendidas
 
-(O que o grupo faria diferente no desenvolvimento? O que deu certo?)
+Praticamente tudo estava adequado com a proposta do projeto. Mas percebemos que cometemos um erro na parte das questões de maior(<) ou menor(>) que poderíamos ter concertado facilmente antes dá entrega, esse erro gerou algumas dúvidas nos membros da Tarso.
