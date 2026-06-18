@@ -37,7 +37,7 @@ Apresentar o protótipo do software para validação e posterior melhora do proj
 | Data | 14/05/2026 |
 | Forma de contato | Presencial |
 | Participantes do grupo | Bruno Felipe Tavares Figueiredo, Gabriel Mota Buére Xavier, Pedro dos Santos Peres |
-| Participantes da comunidade | |
+| Participantes da comunidade | Maria José |
 | Objetivo do contato | Validação do projeto, e consulta para desenvolvimento posterior |
 
 **Resumo do que foi tratado:**
