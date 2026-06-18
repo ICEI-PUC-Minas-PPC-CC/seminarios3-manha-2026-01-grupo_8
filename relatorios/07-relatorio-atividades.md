@@ -13,7 +13,7 @@
 | Disciplina | Seminários III |
 | Comunidade atendida | Tarso de Coimbra |
 | Software desenvolvido | Aplicação Web |
-| URL da aplicação (se hospedada) | |
+| URL da aplicação (se hospedada) | https://aprendamatematicafacil.netlify.app/ |
 
 ## Cronograma de Desenvolvimento
 
