@@ -23,13 +23,13 @@
 | 4 | 13/03 à 21/03 | Prototipação / wireframes | Bruno, Gabriel | concluído |
 | 5 | 10/05 à 16/05 | Desenvolvimento — Sprint 1 | Todos | concluído |
 | 6 | 10/05 à 16/05 | Desenvolvimento — Sprint 1 | Todos | concluído |
-| 7 | 10/05 à 16/05 | Validação com a comunidade | Todos | concluído |
-| 8 | 16/05 à 17/06 | Desenvolvimento — Sprint 2 | | não iniciado |
-| 9 | 16/05 à 17/06 | Desenvolvimento — Sprint 2 | | não iniciado |
-| 10 | 16/05 à 17/06  | Testes e ajustes | | não iniciado |
-| 11 | 17/06 | Deploy / hospedagem | | não iniciado |
-| 12 | 18/06 | Validação final com a comunidade | | não iniciado |
-| 13 | 18/06 | **Entrega presencial** | Todos | não iniciado |
+| 7 | 14/05 | Validação com a comunidade | Todos | concluído |
+| 8 | 16/05 à 17/06 | Desenvolvimento — Sprint 2 | Todos | concluído |
+| 9 | 16/05 à 17/06 | Desenvolvimento — Sprint 2 | Todos | concluído |
+| 10 | 16/05 à 17/06  | Testes e ajustes | Todos | concluído |
+| 11 | 17/06 | Deploy / hospedagem | Bruno | concluído |
+| 12 | 18/06 | Validação final com a comunidade | Todos | concluído |
+| 13 | 18/06 | **Entrega presencial** | Todos | concluído |
 | 14 | | Preenchimento dos relatórios APC | Todos | não iniciado |
 
 > Ajuste o cronograma conforme o calendário do semestre e os feriados.
@@ -42,8 +42,8 @@
 | Requisitos definidos | 14/03 à 21/03 | Documento `02-documento-requisitos.md` preenchido |
 | Protótipo aprovado | até 16/05 | Wireframes validados com a comunidade |
 | MVP funcional | até 16/05 | Funcionalidades mínimas operacionais |
-| Deploy realizado | | Aplicação acessível pela Internet |
-| Entrega presencial | | Software apresentado à comunidade |
+| Deploy realizado | até 17/06 | Aplicação acessível pela Internet |
+| Entrega presencial | 18/06 | Software apresentado à comunidade |
 | Relatórios APC | | Relatório e autoavaliação preenchidos |
 
 ## 4. Estratégia de Desenvolvimento
