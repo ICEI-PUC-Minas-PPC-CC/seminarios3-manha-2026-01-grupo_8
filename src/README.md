@@ -34,9 +34,8 @@ npm start
 src/
 ├── index.html
 ├── style.css
-├── script.js
-└── ...
-```
+└── script.js
+
 
 *(Adapte conforme as tecnologias escolhidas pelo grupo.)*
 
