@@ -29,8 +29,6 @@ Ela foi pensada para ser simples e acessível, permitindo que todos consigam apr
 | RF01 | O sistema deve exibir exercícios de matemática básica | Alta | Discussão em grupo |
 | RF02 | O sistema deve corrigir respostas automaticamente | Alta | Discussão em grupo |
 | RF03 | O sistema deve guardar a pontuação | Média | Definição técnica |
-| RF04 | | | |
-| RF05 | | | |
 
 ## 4. Requisitos Não Funcionais
 
@@ -39,8 +37,6 @@ Ela foi pensada para ser simples e acessível, permitindo que todos consigam apr
 | RNF01 | A aplicação deve ser acessível via navegador web | Acessibilidade |
 | RNF02 | A interface deve ser simples e intuitiva | Usabilidade |
 | RNF03 | A aplicação deve funcionar em dispositivos móveis | Compatibilidade |
-| RNF04 | | |
-| RNF05 | | |
 
 ## 5. Requisitos de Acessibilidade
 
