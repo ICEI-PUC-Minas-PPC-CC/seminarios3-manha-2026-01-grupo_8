@@ -26,7 +26,7 @@
 Foi discutido sobre as demandas atuais da Tarso de Coimbra e oque poderíamos realizar para atendê-las. O grupo decidiu se focar no tema 4 que é o "desenvolvimento de sistema para ensino de operações matemáticas básicas e tutorial de uso das ferramentas digitais para resolução", precisamos desenvolver um software de fácil acesso que consiga relizar testes de matemáticas básicas e que seja direcionado para pessoas surdas de diferentes faixas etárias.
 
 **Encaminhamentos:**
-Apresentar o protótipo do software para validar e tentar melhorar o projeto.
+Apresentar o protótipo do software para validação e posterior melhora do projeto.
 
 ---
 
@@ -52,19 +52,17 @@ Realizar a entrega presencial da implementação do projeto finalizado (etapa 4)
 
 | Campo | Informação |
 | ------- | ----------- |
-| Data | |
-| Forma de contato | |
-| Participantes do grupo | |
-| Participantes da comunidade | |
-| Objetivo do contato | |
+| Data | 18/06/2026 |
+| Forma de contato | Presencial |
+| Participantes do grupo | Bruno Felipe Tavares Figueiredo, Gabriel Mota Buére Xavier, Pedro dos Santos Peres |
+| Participantes da comunidade | Maria José |
+| Objetivo do contato | Apresentação do projeto finalizado |
 
 **Resumo do que foi tratado:**
+O contato foi realizado de forma presencial no campus dá PUC e teve como objetivo principal a apresentar o projeto para a comunidade da Tarso de Coimbra e buscar um feedback final sobre o software de matemática básica.
 
 **Encaminhamentos:**
-
----
-
-(Copie o bloco acima para cada contato adicional.)
+Preenchimento dos relatórios APC por cada membro do grupo de forma individual (etapa 5).
 
 ---
 
@@ -72,6 +70,6 @@ Realizar a entrega presencial da implementação do projeto finalizado (etapa 4)
 
 | # | Demanda | Prioridade | Como será atendida no software |
 | --- | --------- | :----------: | ------------------------------- |
-| 1 | | *(Alta/Média/Baixa)* | |
-| 2 | | | |
+| 1 | Possível deficiência ou dificuldade visual | *Baixa* | Adicinaremos o botão "contraste" |
+| 2 |  | | |
 | 3 | | | |
